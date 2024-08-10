@@ -1,0 +1,11 @@
+langchain
+langchain_community
+streamlit
+langchain_groq
+groq
+PyPDF2
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+youtube-transcript-api
+spacy==3.7.1
